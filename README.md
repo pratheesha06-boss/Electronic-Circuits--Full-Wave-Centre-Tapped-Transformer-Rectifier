@@ -3,7 +3,8 @@
 ## AIM:
 To implement a full wave centre tapped rectifier with and without filter and to measure and compare the output and peak inverse voltages.
 ## CIRCUIT DIAGRAM:
-<img width="961" height="1600" alt="image" src="https://github.com/user-attachments/assets/bafa3026-2b3a-4712-962c-eb025030cac4" />
+<img width="1079" height="1600" alt="image" src="https://github.com/user-attachments/assets/622e06a3-e170-481a-b8ec-dd80ea901cfc" />
+
 
 
 ## PROCEDURE:
@@ -17,11 +18,16 @@ To implement a full wave centre tapped rectifier with and without filter and to 
 	
 
 ## OUTPUT:
-<img width="1235" height="1600" alt="image" src="https://github.com/user-attachments/assets/2eec9b7b-32bc-41e0-aac5-ae3f4968dd26" />
-<img width="1246" height="1600" alt="image" src="https://github.com/user-attachments/assets/aa0a8efb-41ba-4a94-aacb-377a5cefda9c" />
+<img width="1277" height="1600" alt="image" src="https://github.com/user-attachments/assets/fba1ac2c-0854-44e6-bc4f-c557c4e350f1" />
+<img width="1300" height="1599" alt="image" src="https://github.com/user-attachments/assets/6553e9f7-4bec-4629-8c63-8e21cd74626a" />
+
+
+
 
 
 
 ## RESULT:
-<img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/f2ae2db9-324b-4949-9740-7f78419b73cf" />
+<img width="1599" height="716" alt="image" src="https://github.com/user-attachments/assets/ef3f8fb6-36d3-4378-a89c-d3aa0fe777ee" />
+
+
 
